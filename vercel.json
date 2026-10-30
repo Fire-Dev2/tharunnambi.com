@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/proof/southeastcon-2027-acceptance.png", "destination": "/research/southeastcon-2027", "statusCode": 301 },
+    { "source": "/proof", "destination": "/research/southeastcon-2027", "statusCode": 301 },
+    { "source": "/proof/:path*", "destination": "/research/southeastcon-2027", "statusCode": 301 }
+  ]
+}
